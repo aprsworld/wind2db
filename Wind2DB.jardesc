@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="/tmp/wind2db/wind2db.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/wind2db/Wind2DB.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+<storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+<selectedProjects/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=wind2db/&lt;{Wind2.java[Wind2" manifestLocation="/wind2db/Manifest.txt" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<file path="/wind2db/Manifest.txt"/>
+<javaElement handleIdentifier="=wind2db/&lt;"/>
+<file path="/wind2db/small_sunny.gif"/>
+<javaElement handleIdentifier="=wind2db/&lt;jfreechart"/>
+<file path="/wind2db/WrenDAQ_slopped.400.jpg"/>
+<file path="/wind2db/wind2_front_angle.200.jpg"/>
+<file path="/wind2db/config_office.ini"/>
+<file path="/wind2db/config_mrea.ini"/>
+<file path="/wind2db/wind2_front_angle.400.jpg"/>
+</selectedElements>
+</jardesc>
